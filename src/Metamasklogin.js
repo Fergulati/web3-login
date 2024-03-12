@@ -31,9 +31,7 @@ const Login = () => {
                     <button onClick={connectWallet}>Connect Wallet</button>
                 )}
             </div>
-            <div class="embed-container">
-                <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKGlpMmy0vRQCL4Jya4I9gfQEQM1erO06IcCV9uJcwGc6xpHroMoRMdUPN99pqowJRQjYNR5mvgW1A/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-            </div></>
+        </>
     );
 };
 
